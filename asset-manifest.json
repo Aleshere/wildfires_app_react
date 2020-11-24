@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wildfires_app_react/static/css/main.63d291c5.chunk.css",
+    "main.js": "/wildfires_app_react/static/js/main.cc4794ff.chunk.js",
+    "main.js.map": "/wildfires_app_react/static/js/main.cc4794ff.chunk.js.map",
+    "runtime-main.js": "/wildfires_app_react/static/js/runtime-main.62b1a54b.js",
+    "runtime-main.js.map": "/wildfires_app_react/static/js/runtime-main.62b1a54b.js.map",
+    "static/js/2.bd258eba.chunk.js": "/wildfires_app_react/static/js/2.bd258eba.chunk.js",
+    "static/js/2.bd258eba.chunk.js.map": "/wildfires_app_react/static/js/2.bd258eba.chunk.js.map",
+    "static/js/3.18d4bfd8.chunk.js": "/wildfires_app_react/static/js/3.18d4bfd8.chunk.js",
+    "static/js/3.18d4bfd8.chunk.js.map": "/wildfires_app_react/static/js/3.18d4bfd8.chunk.js.map",
+    "index.html": "/wildfires_app_react/index.html",
+    "static/css/main.63d291c5.chunk.css.map": "/wildfires_app_react/static/css/main.63d291c5.chunk.css.map",
+    "static/js/2.bd258eba.chunk.js.LICENSE.txt": "/wildfires_app_react/static/js/2.bd258eba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b1a54b.js",
+    "static/js/2.bd258eba.chunk.js",
+    "static/css/main.63d291c5.chunk.css",
+    "static/js/main.cc4794ff.chunk.js"
+  ]
+}
