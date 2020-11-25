@@ -1,2 +1,2 @@
 # avoid github repo being flagged as html
-**/static linguist-generated
+**/build linguist-generated
