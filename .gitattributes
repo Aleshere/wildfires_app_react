@@ -1,2 +1,3 @@
 # avoid github repo being flagged as html
 **/build linguist-vendored
+**/static linguist-vendored
