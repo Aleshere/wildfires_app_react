@@ -1,0 +1,2 @@
+# avoid github repo being flagged as html
+build/* linguist-generated
